@@ -1,6 +1,7 @@
-public class HelloWorld {
-   public static void main(String[] args) {
-      // Prints "Hello, World" in the terminal window.
-      System.out.println("Hello, World"); //hai h r u fine
-   }
 
+
+class First {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
