@@ -1,6 +1,13 @@
-public class HelloWorld {
-   public static void main(String[] args) {
-      // Prints "Hello, World" in the terminal window.
-      System.out.println("Hello, World"); //hai h r u fine
-   }
 
+
+class Integers {
+  public static void main(String[] arguments) {
+    int c; //declaring a variable
+ 
+  /* Using for loop to repeat instruction execution */
+ 
+    for (c = 1; c <= 10; c++) {
+      System.out.println(c);
+    }
+  }
+}
